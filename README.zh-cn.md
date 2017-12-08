@@ -1,6 +1,6 @@
 > 💡 安全的python print/format字符串的包，彻底避免encode/decode错误，兼容python3/python2💡
 
-超好用
+[English doc](https://raw.githubusercontent.com/jerrychen1990/safe_pystr/master/README.md)
 ## Background
 每个用python的人一定都碰到过关于编码／解码的错误。
 

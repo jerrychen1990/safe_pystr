@@ -1,5 +1,6 @@
 > 💡 a safe python lib for string formatting/printing, both run well with python2 and python3 💡
 
+[中文文档](https://raw.githubusercontent.com/jerrychen1990/safe_pystr/master/README.zh-cn.md)
 ## Background
 everyone writes python has met error with string encoding/decoding.
 just like this:
